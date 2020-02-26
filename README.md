@@ -1,8 +1,8 @@
-<p align="right" width="100px" style="width: 50px;"">
+<span align="right" width="100px">
   <a href="https://www.powershellgallery.com/packages/ProductivityTools.PSGetDateName/">
     <img src="https://github.com/pwujczyk/ProductivityTools.PSDisableFileSyncNGSC/blob/media/Powershell40px.png" />
   </a>
-</p>
+</span>
 
 # ProductivityTools.PSDisableFileSyncNGSC
 Flag DisableFileSyncNGSC stops OneDrive syncronization. It is often set by company policy. 
