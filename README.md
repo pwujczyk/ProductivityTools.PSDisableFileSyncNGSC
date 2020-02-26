@@ -1,4 +1,4 @@
-<p align="right" width="100px">
+<p align="right" width="100px" style="{max-width:20px}">
   <a href="https://www.powershellgallery.com/packages/ProductivityTools.PSGetDateName/">
     <img src="https://github.com/pwujczyk/ProductivityTools.PSDisableFileSyncNGSC/blob/media/Powershell40px.png" />
   </a>
