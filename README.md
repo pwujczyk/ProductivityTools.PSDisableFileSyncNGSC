@@ -6,4 +6,8 @@ Seting Flag DisableFileSyncNGSC resolves this problem and OneDrive opens and sta
 
 DisableFileSyncNGSC is located in Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\OneDrive
 
+To install module use:
+```Install-Module -Name ProductivityTools.PSDisableFileSyncNGSC```
+
+
 ![Regedit](https://github.com/pwujczyk/ProductivityTools.PSDisableFileSyncNGSC/blob/media/Rejestr.png)
