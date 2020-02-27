@@ -15,6 +15,7 @@ Seting Flag DisableFileSyncNGSC to 0 resolves this problem and OneDrive opens an
 DisableFileSyncNGSC is located in Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\OneDrive
 
 To install module use:
+
 ```Install-Module -Name ProductivityTools.PSDisableFileSyncNGSC```
 
 To use module 
