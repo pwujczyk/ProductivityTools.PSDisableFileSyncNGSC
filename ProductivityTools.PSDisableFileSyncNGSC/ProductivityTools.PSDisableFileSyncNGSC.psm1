@@ -17,3 +17,5 @@ function Reset-DisableFileSyncNGSC {
 	Write-Verbose $out;
 	
 }
+
+Export-ModuleMember Reset-DisableFileSyncNGSC
