@@ -6,7 +6,8 @@
     <OutputType>Exe</OutputType>
     <RootNamespace>MyApplication</RootNamespace>
     <AssemblyName>MyApplication</AssemblyName>
-    <Name>ProductivityTools.PSDisableFileSyncNGSC</Name>
+    <Name>ProductivityTools.DisableFileSyncNGSC</Name>
+    <ProjectHome />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -27,9 +28,8 @@
   </PropertyGroup>
   <ItemGroup />
   <ItemGroup>
-    <Compile Include="ProductivityTools.PSDisableFileSyncNGSC.psd1" />
-    <Compile Include="ProductivityTools.PSDisableFileSyncNGSC.psm1" />
-    <Compile Include="ProductivityTools.PSDisableFileSyncNGSC.tests.ps1" />
+    <Compile Include="ProductivityTools.DisableFileSyncNGSC.psd1" />
+    <Compile Include="ProductivityTools.DisableFileSyncNGSC.psm1" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <Target Name="Build" />
